@@ -4,6 +4,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :smiley:
 
-- Bolo de Chocolate
+- [Bolo de Chocolate](https://github.com/JM-2/livro-receitas/blob/master/receitas/bolo_chocolate.md)
 - ...
 

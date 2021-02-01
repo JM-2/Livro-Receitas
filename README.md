@@ -9,4 +9,7 @@ Olá! Bem vindo ao meu livro de receitas :smiley:
 - [Batatinha Frita](https://github.com/JM-2/livro-receitas/blob/master/receitas/bolo_chocolate.md)
 - [Pizza Caseira]()
 - [Lámen Caseiro]()
+- [ ]()
+- [ ]()
+- [ ]()
 - ...

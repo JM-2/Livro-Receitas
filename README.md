@@ -10,6 +10,4 @@ Olá! Bem vindo ao meu livro de receitas :smiley:
 - [Pizza Caseira]()
 - [Lámen Caseiro]()
 - [ ]()
-- [ ]()
-- [ ]()
 - ...

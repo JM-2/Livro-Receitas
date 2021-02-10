@@ -1,4 +1,4 @@
-# Pastel de Queijo :thumbsup:
+# Pastel de Queijo :cheese::thumbsup:
 
 ### Ingredientes
 

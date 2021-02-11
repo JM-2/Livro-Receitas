@@ -1,4 +1,4 @@
-# Bolo de Chocolate :stew:
+# Lámen de frango :stew:
 
 ### Ingredientes
 

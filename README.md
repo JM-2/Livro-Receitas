@@ -11,4 +11,3 @@ Olá! Bem vindo ao meu livro de receitas :smiley:
 - [Lámen Caseiro](https://github.com/JM-2/Livro-Receitas/blob/master/receitas/lamen_caseiro.md)
 - [Pão de Alho](https://github.com/JM-2/Livro-Receitas/blob/master/receitas/pao_alho.md)
 
-    :point_up_2:

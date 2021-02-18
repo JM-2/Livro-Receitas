@@ -12,7 +12,7 @@
 - 4 folhas de algas nori torradas
 - 3 dentes de alho
 - 2 cm de gengibre com casca
-- Sal / Pimenta / Açúcar
+- Sal, Pimenta e Açúcar _a gosto_
 
 
 ### Modo de Preparo

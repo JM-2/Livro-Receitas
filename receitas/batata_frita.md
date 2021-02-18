@@ -14,7 +14,7 @@
 3. Após misturado, volte esse óleo para frigideira, frite as batatas em fogo médio até dourarem.
 
 
-**É uma dica que vale muito a pena, pois as batas ficam bem sequinhas.**
+**É uma dica que vale muito a pena, pois as batatas ficam bem sequinhas.**
 
 
 
